@@ -126,7 +126,7 @@ Asena.addCommand(
       global.AFK.lastseen = 0
       global.AFK.reason = false
       global.AFK.isAfk = false
-      return await message.sendMessage(Lang.IM_NOT_AFK)
+      return await message.sendMessage(Lang.*MY OWNER IS BACK*)
     }
   }
 )
